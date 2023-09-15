@@ -1,0 +1,20 @@
+inicio
+varinicio
+literal A;
+inteiro B, D;
+real C;
+varfim;
+escreva "Digite B:";
+leia B;
+se(B>2)
+entao
+escreva "B esta entre 2 e 4";
+fimse
+B<-B+1;
+escreva "\nB=\n";
+escreva D;
+escreva "\n";
+escreva C;
+escreva "\n";
+escreva A;
+fim
